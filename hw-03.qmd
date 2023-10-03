@@ -1,0 +1,30 @@
+---
+title: "HW 03"
+author: "INSERT YOUR NAME HERE"
+format:
+  html:
+    embed-resources: true
+toc: true
+---
+
+## 1 - Thank you.
+
+```{r}
+#| label: label-me-1
+
+```
+
+## 2 - A second chance.
+
+```{r}
+#| label: label-me-2
+
+```
+
+## 3 - Median housing prices in the US.
+
+
+## 4 - That’s what our guest said.
+
+
+## 5 - Du Bois challenge.
